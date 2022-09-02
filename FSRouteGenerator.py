@@ -1,7 +1,5 @@
-from glob import glob
 import random
 import tkinter as tk
-from tkinter.font import NORMAL
 
 def deleteText():
     textLabel.destroy()
